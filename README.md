@@ -8,7 +8,8 @@ This Flask application utilizes Google's Generative AI to generate and stream te
 
 - **Generative Model Integration**: Leverages Google Generative AI for text generation.
 
-- **Real-Time Streaming**: Streams text responses directly to the client.
+- **Real-Time Streaming**: Streams text responses directly to the client in real time.
+
 
 - **Special Handling for Mental Health Prompts**: Custom behavior for prompts containing "hey siri" related to mental health.
 
