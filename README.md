@@ -33,7 +33,7 @@ Navigate to http://127.0.0.1:5000/ in your browser.
 
 Send a POST Request
 
-Use a tool like curl or Postman to send a POST request with JSON data. Example using curl:
+Use a tool like curl or Postman to send a POST request with JSON data. 
 
 The application will stream the generated response back to you.
 
